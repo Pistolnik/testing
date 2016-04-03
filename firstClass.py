@@ -13,5 +13,9 @@ class Employee:
    def displayEmployee(self):
       print "Name : ", self.name,  ", Salary: ", self.salary
 
+   def sayBye(self)
+        print "Bye, my name is " self.name
+
    def sayHello(self)
         print "Hello, my name is " self.name
+        print "Bye, my name is " self.name
