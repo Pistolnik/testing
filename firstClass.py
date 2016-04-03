@@ -14,7 +14,11 @@ class Employee:
       print "Name : ", self.name,  ", Salary: ", self.salary
 
    def sayBye(self)
+<<<<<<< HEAD
         print "Bye, my name is " self.name
 
    def sayHello(self)
         print "Hello, my name is " self.name
+=======
+        print "Bye, my name is " self.name
+>>>>>>> 4786e7b017f03c5977a312739ea2169d86938cb7
